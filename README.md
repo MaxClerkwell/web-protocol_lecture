@@ -1,6 +1,6 @@
 # HTTP-Protokolle
 
-Diese Einheit behandelt die Grundlagen und Weiterentwicklungen des HTTP-Protokolls sowie moderne Mechanismen für Echtzeit-Datenübertragung. Jede Sektion enthält einen kurzen einleitenden Text und weiterführende Bullet-Points.
+Diese Einheit behandelt die Grundlagen und Weiterentwicklungen des HTTP-Protokolls sowie moderne Mechanismen für Live-Datenübertragung. Jede Sektion enthält einen kurzen einleitenden Text und weiterführende Bullet-Points.
 
 ---
 
